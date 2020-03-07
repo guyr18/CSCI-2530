@@ -51,15 +51,15 @@ using namespace std;
 // represents one edge in a graph.
 //
 // Fields:
-//  vertexOne: This represents the
-//  first vertex in this edge.
+//  vertexOne: The first vertex
+//  of an edge object.
+
+//  vertexTwo: The second vertex
+//  of an edge object.
 //
-//  vertexTwo: This represents the
-//  second vertex in this edge.
-//
-//  vertexWeight: This represents the
-//  weight component of vertexOne and
-//  vertexTwo.
+//  vertexWeight: The summed weight
+//  component of vertexOne and vertexTwo.
+
 
 struct Edge
 {
@@ -82,15 +82,18 @@ struct Edge
 // represents a weighted graph.
 //
 // Fields:
-//  numVertices: This represents the number of vertices.
+//  numVertices: The total number of vertices.
+//  in this graph.
+
+//  numEdges: The total number of edges
+//  in this graph.
 //
-//  numEdges: This represents the number of edges.
-//
-//  arrEdges: This represents an array containing
-//  all of the Edge objects.
-//
-//  physSizeEdges: This represents the physical size
-//  of array arrEdges.
+//  arrEdges: An array representing the
+//  collection of edge objects found
+//  in this graph.
+
+//  physSizeEdges: The physical size of
+//  the array, arrEdges.
 
 struct Graph
 {
@@ -116,7 +119,7 @@ typedef int (*QSORT_COMPARE_TYPE) (const void*, const void*);
 
 // CompareEdges(A, B) compares two edge objects
 // by returning the difference between their
-// weight fields, namely vertexWeight.
+// weight fields (vertexWeight).
 
 int compareEdges(const Edge* A, const Edge* B)
 {
