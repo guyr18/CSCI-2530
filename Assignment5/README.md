@@ -8,7 +8,7 @@ This assignment accepts input signifying the following:
   <li>The number of vertices</li>
   <li>The starting and ending vertex, per edge component</li>
   <li>A respective weight, per weight component</li>
-  
+  <br></br>
   
 This input then makes use of <b>Kruskal's algorithm</b> to compute
 a weighted graph. Subsequently, this weighted graph uses the
