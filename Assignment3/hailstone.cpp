@@ -37,17 +37,18 @@ using namespace std;
 int next(int n)
 {
 
-    int i = (3 * n) + 1;
-
     if(n % 2 == 0)
     {
 
-        i = n / 2;
+       	return n / 2;
 
+    } 
+    else
+    {
+	    
+	return (3 * n) + 1;
+	    
     }
-
-	return i;
-
 }
 
 // PrintSequence(n) prints the entire hailstone
