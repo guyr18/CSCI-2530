@@ -215,7 +215,7 @@ Graph* minimalSpanningTree(Graph* g)
     Graph* t = new Graph(g->numVertices, g->physSizeEdges);
     sortEdges(g);
 
-    for(int i = 0; i < g->physSizeEdges; i++)
+    for(int i = 0; i < g->numEdges; i++)
     {
 
         Edge edge = g->arrEdges[i];
