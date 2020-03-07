@@ -114,6 +114,10 @@ struct Graph
 const int maxGraphEdges = 50;
 typedef int (*QSORT_COMPARE_TYPE) (const void*, const void*);
 
+// CompareEdges(A, B) compares two edge objects
+// by returning the difference between their
+// weight fields, namely vertexWeight.
+
 int compareEdges(const Edge* A, const Edge* B)
 {
 
