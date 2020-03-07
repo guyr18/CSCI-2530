@@ -53,7 +53,7 @@ using namespace std;
 // Fields:
 //  vertexOne: The first vertex
 //  of an edge object.
-
+//
 //  vertexTwo: The second vertex
 //  of an edge object.
 //
@@ -84,14 +84,14 @@ struct Edge
 // Fields:
 //  numVertices: The total number of vertices.
 //  in this graph.
-
+//
 //  numEdges: The total number of edges
 //  in this graph.
 //
 //  arrEdges: An array representing the
 //  collection of edge objects found
 //  in this graph.
-
+//
 //  physSizeEdges: The physical size of
 //  the array, arrEdges.
 
