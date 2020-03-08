@@ -9,6 +9,11 @@
 // the standard input and writes a minimal
 // spanning tree of g to the standard output.
 //
+// The output format can further be simplified as:
+//  1. The original graph G.
+//  2. The computed minimal spanning tree T of G.
+//  3. The total weight of T.
+//
 // Input format: The input starts with a line
 // that tells how many vertices the graph has.
 // If there are three vertices, then those
@@ -212,7 +217,7 @@ Graph* minimalSpanningTree(Graph* g)
 {
 
     ER erm = newER(g->numVertices);
-    Graph* t = new Graph(g->numVertices, g->physSizeEdges);
+    Graph* t = new Graph(g->numVertices, g->numEdges);
     sortEdges(g);
 
     for(int i = 0; i < g->numEdges; i++)
