@@ -157,7 +157,7 @@ void insertEdge(int u, int v, int w, Graph* g)
 Graph* readGraph(int e)
 {
 
-    int cur, numVert;
+    int numVert, cur;
     scanf("%i", &numVert);
     Graph* g = new Graph(numVert, e);
 
