@@ -88,12 +88,6 @@ void combine(ER e, int x, int y)
         e[yLeader] = xLeader;
 
     }
-    else
-    {
-
-        e[xLeader] = yLeader;
-
-    }
 }
 
 // ShowER(e, n) shows the boss array e of equivalence relation
