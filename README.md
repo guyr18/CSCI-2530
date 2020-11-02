@@ -6,3 +6,15 @@ This repository includes several folders, which are intended to showcase basic f
 my familiarity of common data structures, memory control, and other algorithms.
 
 All coursework is completed in C++ using the GNU Compiler.
+If you would like to experiment with the source code
+provided in this repository I recommend that you test
+such code with the following flags in a G++ or GNU
+compiler:
+    
+    <b>-g -Wall -W -Wshadow -O</b>
+    
+# Lasting Note
+This repository has been uploaded as a representation of my coursework and
+as educational material to those whom may seek it. I am not responsible for, nor
+do I condone academic plagiarism conducted from the material / source code found
+within this repository.
