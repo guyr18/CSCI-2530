@@ -5,7 +5,7 @@ Assignment 7 represented a <b>discrete event simulation</b> by incorporating <b>
 
 # Background
  -> A discrete event simulation performs a simulation of a collection of events, where each event occurs at a specified time. 
- -> Dijkstra's algorithm finds shortest paths in weighted graphs, and it can be expressed as a discrete event simulation.
+ \n-> Dijkstra's algorithm finds shortest paths in weighted graphs, and it can be expressed as a discrete event simulation.
  
 # More Information..
   This application uses Dijkstra's shortest
