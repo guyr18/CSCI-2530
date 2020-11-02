@@ -21,4 +21,4 @@ Assignment 7 represented a <b>discrete event simulation</b> by incorporating <b>
      derived from the shortest path.
   
   Conclusively, this assignment presented the challenge of integrating arrays, structures, linked lists and switchable
-  tracing within a single application. This assignment was considered a "final project" for CSCI 2530.
+  tracing within a single application. This assignment was considered a "final project" for <b>CSCI 2530</b>.
