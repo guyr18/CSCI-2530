@@ -1,5 +1,6 @@
 "# CSCI-2530" 
 # CSCI-2530
+CSCI 2530 is an introductory course on Data Structures & Algorithms.
 # Background Information & Purpose
 This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2530.
 This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
