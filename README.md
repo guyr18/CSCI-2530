@@ -11,7 +11,7 @@ provided in this repository I recommend that you test
 such code with the following flags in a G++ or GNU
 compiler:
     
-    # -g -Wall -W -Wshadow -O
+     -g -Wall -W -Wshadow -O
     
 # Lasting Note
 This repository has been uploaded as a representation of my coursework and
