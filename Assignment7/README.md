@@ -1,8 +1,24 @@
 "# CSCI-2530" 
 # CSCI-2530
-# Background Information & Purpose
-This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2530.
-This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
-my familiarity of common data structures, memory control, and other algorithms.
+# Assignment 7
+Assignment 7 represented a <b>discrete event simulation</b> by incorporating <b>Dijkstra's</b> shortest path algorithm.
 
-All coursework is completed in C++ using the GNU Compiler.
+# Background
+ -> A discrete event simulation performs a simulation of a collection of events, where each event occurs at a specified time. 
+ -> Dijkstra's algorithm finds shortest paths in weighted graphs, and it can be expressed as a discrete event simulation.
+ 
+# More Information..
+  This application uses Dijkstra's shortest
+ path algorithm and reads information about
+ a weighted graph from the standard input.
+ And furthermore, has three components:
+  1. An input graph description that is
+     derived from the standard input.
+  2. The shortest path from the starting
+     vertex to the ending vertex.
+  3. The distance (or time) from the starting
+     vertex to the ending vertex. This is
+     derived from the shortest path.
+  
+  Conclusively, this assignment presented the challenge of integrating arrays, structures, linked lists and switchable
+  tracing within a single application. This assignment was considered a "final project" for CSCI 2530.
