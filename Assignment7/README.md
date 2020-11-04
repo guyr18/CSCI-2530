@@ -1,4 +1,3 @@
-"# CSCI-2530" 
 # CSCI-2530
 # Assignment 7
 Assignment 7 represented a <b>discrete event simulation</b> by incorporating <b>Dijkstra's</b> shortest path algorithm.
