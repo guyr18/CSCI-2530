@@ -1,4 +1,3 @@
-"# CSCI-2530" 
 # CSCI-2530
 CSCI 2530 is an introductory course on Data Structures & Algorithms.
 # Background Information & Purpose
