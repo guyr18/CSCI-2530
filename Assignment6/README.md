@@ -1,4 +1,3 @@
-"# CSCI-2530" 
 # CSCI-2530
 # Assignment 6
 Assignment 6 required students to develop a <b>priority queue</b> using modules. As a bit of background, a <b>priority queue</b>
