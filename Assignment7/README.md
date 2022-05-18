@@ -104,15 +104,15 @@ make dijkstra
    This is accomplished through a command line argument.
    An example of proper command line syntax is as follows:
 
-    ```
-    ./dijkstra -t
-    ```
+```
+./dijkstra -t
+```
     
   "-t" enables switchable tracing. By default, switching
   tracing is disabled.
 
   Another example of a redirected graph input could be:
 
-    ```
-    ./dijkstra <dijkstra_sample.txt -t
-    ```
+```
+./dijkstra <dijkstra_sample.txt -t
+```
