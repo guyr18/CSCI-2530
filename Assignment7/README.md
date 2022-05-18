@@ -25,6 +25,23 @@ Assignment 7 represented a <b>discrete event simulation</b> by incorporating <b>
   
 # Compiling This Application
 
+To compile this application, we will make use of the provided **Makefile**. You should clone the repository, navigate to directory **Assignment7**.
+
+```
+cd Assignment7
+```
+
+Subsequently, run **make clean** to remove any unneeded object files.
+
+```
+make clean
+```
+
+Lastly, you will run ***make dijkstra*** to obtain the desired executables.
+
+```
+make dijkstra
+```
 
 # Running This Application
   
