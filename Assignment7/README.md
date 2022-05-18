@@ -77,12 +77,12 @@ make dijkstra
    There are 5 vertices and 6 edges.
    The edges are as follows.
 
-   (1,3) weight 12.000
-   (1,2) weight 9.000
-   (2,5) weight 20.000
-   (2,3) weight 6.000
-   (2,4) weight 18.000
-   (3,5) weight 15.000
+   (1,3) weight 12.000  
+   (1,2) weight 9.000  
+   (2,5) weight 20.000  
+   (2,3) weight 6.000  
+   (2,4) weight 18.000  
+   (3,5) weight 15.000  
 
    The shortest path from 1 to 5 has length 27.000 and is
    1 -> 3 -> 5
