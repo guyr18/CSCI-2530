@@ -2,6 +2,13 @@
 # Assignment 7
 Assignment 7 represented a <b>discrete event simulation</b> by incorporating <b>Dijkstra's</b> shortest path algorithm.
 
+# Demo Video
+
+
+
+https://user-images.githubusercontent.com/46636441/169266560-92f1a0ad-9df5-4caa-af41-adbcefe950be.mp4
+
+
 # Background
   A <b>discrete event simulation</b> performs a simulation of a collection of events, where each event occurs at a specified time. 
  
